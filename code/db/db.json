@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Monica",
+      "singer": "Anirudh Ravichander",
+      "genre": "R&B soul hip-hop soul",
+      "imgUrl": "img/monica.jpg",
+      "songUrl": "Songs/Monica.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Coolie Disco",
+      "singer": "Bappi Lahiri",
+      "genre": "Disco",
+      "imgUrl": "img/Coolie Disco.jpg",
+      "songUrl": "Songs/Coolie Disco.mp3"
+    },
+    {
+      "id": "5",
+      "title": " Power House",
+      "singer": "Bappi Lahiri",
+      "genre": "Disco",
+      "imgUrl": "img/Power House.jpg",
+      "songUrl": "Songs/Power House.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Salambala",
+      "singer": "Bappi Lahiri",
+      "genre": "Disco",
+      "imgUrl": "img/Salambala.jpg",
+      "songUrl": "Songs/Salambala.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Kaavaalaa",
+      "singer": "Shilpa Rao, Anirudh Ravichanderi",
+      "genre": "Dance",
+      "imgUrl": "img/Kaavaalaa.jpg",
+      "songUrl": "Songs/Kaavaalaa.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 7,
+      "id": "7",
+      "title": "Kaavaalaa",
+      "singer": "Shilpa Rao, Anirudh Ravichanderi",
+      "genre": "Dance",
+      "imgUrl": "img/Kaavaalaa.jpg",
+      "songUrl": "Songs/Kaavaalaa.mp3"
+    },
+    {
+      "id": "3",
+      "itemId": "3",
+      "title": "Monica",
+      "imgUrl": "img/monica.jpg",
+      "genre": "R&B soul hip-hop soul",
+      "songUrl": "Songs/monica.mp3",
+      "singer": "Anirudh Ravichander"
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": "2",
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": "2"
+    },
+    {
+      "itemId": "1",
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": "1"
+    },
+    {
+      "id": "1bbe",
+      "itemId": "7",
+      "title": "Kaavaalaa",
+      "imgUrl": "img/Kaavaalaa.jpg",
+      "genre": "Dance",
+      "songUrl": "Songs/Kaavaalaa.mp3",
+      "singer": "Shilpa Rao, Anirudh Ravichanderi"
+    },
+    {
+      "id": "df55",
+      "itemId": "6",
+      "title": "Salambala",
+      "imgUrl": "img/Salambala.jpg",
+      "genre": "Disco",
+      "songUrl": "Songs/Salambala.mp3",
+      "singer": "Bappi Lahiri"
+    },
+    {
+      "id": "e630",
+      "itemId": "3",
+      "title": "Monica",
+      "imgUrl": "img/monica.jpg",
+      "genre": "R&B soul hip-hop soul",
+      "songUrl": "Songs/Monica.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "80f1",
+      "itemId": "4",
+      "title": "Coolie Disco",
+      "imgUrl": "img/Coolie Disco.jpg",
+      "genre": "Disco",
+      "songUrl": "Songs/Coolie Disco.mp3",
+      "singer": "Bappi Lahiri"
+    }
+  ]
+}
